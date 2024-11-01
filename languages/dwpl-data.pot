@@ -1,0 +1,107 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-25 07:29+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: admin/class-dwpl-data-admin.php:105
+#: admin/partials/dwpl-data-admin-display.php:28
+msgid "Export Site Information"
+msgstr ""
+
+#: admin/partials/dwpl-data-admin-display.php:5
+msgid "Failed security check"
+msgstr ""
+
+#: admin/partials/dwpl-data-admin-display.php:20
+msgid ""
+"An empty file cannot be generated. Please check at least one checkbox to "
+"generate the file."
+msgstr ""
+
+#: admin/partials/dwpl-data-admin-display.php:29
+msgid ""
+"Clicking on the \"Download File\" button below will download a CSV file. The "
+"File will only contain the information you have selected using the "
+"checkboxes below."
+msgstr ""
+
+#: admin/partials/dwpl-data-admin-display.php:31
+msgid "Choose what information to export"
+msgstr ""
+
+#: admin/partials/dwpl-data-admin-display.php:34
+msgid "Plugins"
+msgstr ""
+
+#: admin/partials/dwpl-data-admin-display.php:35
+msgid ""
+"This option will include list of all plugins on your site, activated as well "
+"as deactivated."
+msgstr ""
+
+#: admin/partials/dwpl-data-admin-display.php:37
+msgid "Themes"
+msgstr ""
+
+#: admin/partials/dwpl-data-admin-display.php:38
+msgid ""
+"This option will include list of all themes on your site, activated as well "
+"as deactivated."
+msgstr ""
+
+#: admin/partials/dwpl-data-admin-display.php:40
+msgid "Wordpress Version"
+msgstr ""
+
+#: admin/partials/dwpl-data-admin-display.php:41
+msgid "This option will include the current version of your WordPress."
+msgstr ""
+
+#: admin/partials/dwpl-data-admin-display.php:43
+msgid "PHP Version"
+msgstr ""
+
+#: admin/partials/dwpl-data-admin-display.php:44
+msgid "This option will include the current version of PHP on your server."
+msgstr ""
+
+#: admin/partials/dwpl-data-admin-display.php:46
+msgid "Browser Name & Version"
+msgstr ""
+
+#: admin/partials/dwpl-data-admin-display.php:47
+msgid ""
+"This option will include the browser's name you are using, and its version "
+"number."
+msgstr ""
+
+#. Name of the plugin
+msgid "Download Dashboard"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"A simple plugin that allows you to download and share configuration "
+"environment of your WordPress website without exposing user privacy data. "
+"Handy while working with support teams where you cannot provide direct "
+"access to your dashboard."
+msgstr ""
+
+#. Author of the plugin
+msgid "CMSHelpLive"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://cmshelplive.com"
+msgstr ""
